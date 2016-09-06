@@ -9,19 +9,20 @@
 # ConstructorInitializerIndentWidth: 4
 # SortIncludes: false
 
-AlignAfterOpenBracket: true
+AlignAfterOpenBracket: AlwaysBreak
 AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
 # AlignEscapedNewlinesLeft: true
 # AlignOperands: false
-# AlignTrailingComments: true
+AlignTrailingComments: true
 
-# AllowAllParametersOfDeclarationOnNextLine: false
-# AllowShortBlocksOnASingleLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortBlocksOnASingleLine: false
 # AllowShortCaseLabelsOnASingleLine: false
-# AllowShortFunctionsOnASingleLine: true
-# AllowShortIfStatementsOnASingleLine: true
+# AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
 # AllowShortFunctionsOnASingleLine: All
-# AllowShortLoopsOnASingleLine: true
+AllowShortLoopsOnASingleLine: false
 
 # AlwaysBreakAfterDefinitionReturnType: false
 # AlwaysBreakTemplateDeclarations: false
