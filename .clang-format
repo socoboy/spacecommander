@@ -9,7 +9,8 @@
 # ConstructorInitializerIndentWidth: 4
 # SortIncludes: false
 
-# AlignAfterOpenBracket: true
+AlignAfterOpenBracket: true
+AlignConsecutiveAssignments: true
 # AlignEscapedNewlinesLeft: true
 # AlignOperands: false
 # AlignTrailingComments: true
