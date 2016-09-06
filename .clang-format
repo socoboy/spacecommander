@@ -11,7 +11,7 @@
 
 AlignAfterOpenBracket: AlwaysBreak
 AlignConsecutiveAssignments: true
-AlignConsecutiveDeclarations: true
+AlignConsecutiveDeclarations: false
 # AlignEscapedNewlinesLeft: true
 # AlignOperands: false
 AlignTrailingComments: true
