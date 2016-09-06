@@ -21,12 +21,12 @@ To add formatting pre-commit checks to your repo, from the target repo, run `pat
 
 **Installation on GEM Projects**
 -------------
-- Add spacecommanders as submodules to project:
-  	submodule: git@github.com:socoboy/spacecommander.git
-  	branch: GEM
-  	commit: latest commit
-- from repo dir, run
-  	./{path_to_spacecommander}/setup-repo.sh
+	* Add spacecommanders as submodules to project:
+  		submodule: git@github.com:socoboy/spacecommander.git
+  		branch: GEM
+  		commit: latest commit
+	* from repo dir, run
+  		./{path_to_spacecommander}/setup-repo.sh
 
 Usage
 -------------
